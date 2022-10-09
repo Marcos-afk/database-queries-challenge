@@ -30,9 +30,7 @@ docker run --name ignite-challenge-database-queries -e POSTGRES_DB=queries_chall
 yarn test
 ```
 
-### :heavy_check_mark: Requisitos
-
-### Testes da aplicação
+### :heavy_check_mark: Testes da aplicação
 
 UsersRepository
 
